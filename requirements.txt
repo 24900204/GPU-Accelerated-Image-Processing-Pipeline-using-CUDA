@@ -1,0 +1,3 @@
+NVIDIA CUDA Toolkit
+C++17 compiler
+GNU Make

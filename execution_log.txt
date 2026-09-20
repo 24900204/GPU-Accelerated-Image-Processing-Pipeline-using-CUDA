@@ -1,0 +1,4 @@
+REPLACE THIS FILE WITH THE ACTUAL TERMINAL OUTPUT FROM YOUR CUDA RUN.
+
+Example command:
+./gpu_image_processor --input ./input --output ./output --operation sobel --benchmark
